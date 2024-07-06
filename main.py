@@ -18,9 +18,6 @@ prefix = "!"
 
 cogs: list[str] = [
     "helloworld",
-    # "dice",
-    # "report",
-    # "ytmusic"
 ]
 ownerId: int = 727491451805761537
 
